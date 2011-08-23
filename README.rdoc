@@ -1,0 +1,41 @@
+= Call of Cthulhu Character Generator
+
+== *English:*
+Call of Cthulhu is a Tabletop RPG. I use this code only as an example for some posts of my blog. 
+If you want to know more about this game itself, fell free to read more about it here:
+
+= *Fast Play[English]:*
+http://www.chaosium.com/forms/coc_quick_start_color.pdf
+
+= *TODO:*
+I don't think that I will continue this project(since it's just a sample project), but if I would, probably those would be the functionalities that I would like to implement:
+
+- Occupations based on Call of Cthulhu 6th Edition.
+- Create the Skills to the Investigator class.
+- Random chooses the skills to an investigator based on his attribute stats and Occupation.
+- Random chooses a Name and Surname to an investigator based on sex.
+- Have an option to import the investigator sheet to pdf.
+- Have an option to display, edit and generate this investigator sheet with Sinatra or Rails.
+
+---
+
+== *Português:*
+Call of Chtulhu é um jogo de RPG de Mesa. Utilizo esse código apenas como exemplo para alguns posts de meu blog. Caso queiram saber mais sobre o jogo em si, fiquem a vontade para ler mais sobre aqui: 
+
+= *Fast Play[em Português]:*
+http://www.4shared.com/document/T2ZvFR6Z/O_Chamado_de_Cthulhu_RPG__Fast.html
+
+= *TODO:*
+Eu não acredito que irei continuar esse projeto(pois o mesmo é apenas um projeto de amostra), mas se eu fosse, provavelmente essas seriam as funcionalidades que eu gostaria de implementar:
+
+- Ocupações baseadas no livro Call of Cthulhu 6th Edition.
+- Criar as Habilidades para a classe Investigator.
+- Escolher randomicamente as habilidades para um investigador baseado em seus atributos e ocupação.
+- Escolher randomicamente um Nome e Sobrenome para um investigador baseado em seu sexo.
+- Ter uma opção para importar a ficha do investigador para pdf.
+- Ter uma opção para exibir, editar e gerar essa ficha de investigador com Sinatra ou Rails.
+
+---
+
+*_All rights reserved for Chaosium:_*
+http://www.chaosium.com/
